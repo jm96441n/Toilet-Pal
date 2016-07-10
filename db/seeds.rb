@@ -18,8 +18,6 @@ response.each do |item|
       Tagtoilet.create(tag_id: pub_tag.id, toilet_id: toilet.id)
     end
   end
-
-  puts toilet.id
 end
 
 
