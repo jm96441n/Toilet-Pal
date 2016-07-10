@@ -1,8 +1,5 @@
 
-#Lookie Loo
-
-[blog][blog]
-[blog]: http://www.alyssaransbury.com/blog/lookieloo.html
+#Toilet Pal
 
 See the app in action at http://toilet-pal.herokuapp.com/
 
